@@ -12,6 +12,6 @@ Any student, teacher or professional, either associated or not associated with O
 Open an issue, Send a PR to get started. Our maintainers will review your request and merge if your contribution is signicant. 
 
 ## Important Note:
-This repository is a part of active program so it is evolving with every day and is prone to rapid updations and changes. Feel free to star it to track the progress and relevant updates.
+This repository is a part of active program so it is evolving with every day and is prone to rapid updations and changes. Feel free to star it to track the progress and relevant updates..
 
 <img src="https://github.com/upes-open/100DaysOfMachineLearning/blob/master/Resources/100DaysOfMachineLearning!.png" alt="100DaysofMachineLearning">
