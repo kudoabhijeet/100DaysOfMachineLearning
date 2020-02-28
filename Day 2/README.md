@@ -24,7 +24,7 @@ Run these commands on your terminal/ command prompt :
   * Slicing an array
   * Reversing the order of an array
 * Computations in NumPy
-  * Finding the maximum and minimum sum of an array
+  * Finding the maximum, minimum and sum of an array
   * Finding the mean, variance, standard deviation of an array
 
 
