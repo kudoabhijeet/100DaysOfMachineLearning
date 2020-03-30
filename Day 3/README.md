@@ -1,2 +1,1 @@
-# Day 3 
-Day 3 talks about Linear Regression. 
+# Day 3 : Pandas
